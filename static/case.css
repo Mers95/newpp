@@ -1,0 +1,176 @@
+#caseModalBox{
+    border: none;
+    border-radius: 8px;
+}
+#caseHeader{
+    border: none;
+    background: #F4F8FB;
+    border-radius: 8px;
+    height: 55px;
+}
+#caseHeader h1{
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 600;
+    color: #555555;
+    font-family: 'Montserrat';
+}
+#CloseBtn{
+    font-size: 25px;
+    color: #858687;
+    margin-top: 8px;
+}
+label{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #555555;
+    font-family: 'Montserrat';
+}
+#case{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#case:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#Age{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#Age:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#Gender{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#Gender:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#disease{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#disease:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#symptomsDropdown{
+    width: 37vh;
+    height: 52px;
+    position: relative;
+    z-index: 1;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#symptomsDropdown:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#SymptomsDrpbox{
+ width: 34.5vh;
+ margin:10px;
+
+}
+#Symptoms{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#Symptoms:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#Intro{
+    height: 52px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+   /*background: #F3F5F7;*/
+}
+#Intro:focus{
+    border: solid 2px #0E9AFF;
+    background: #fff;
+    box-shadow: none;
+    outline: none;
+}
+#Diagnosis{
+    height: 200px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+#Casefooter{
+    border-top: solid 2px #E4EAF3;
+}
+#caseSubmitBtn{
+    border-radius: 5px;
+    background: #0075FF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: 'Montserrat';
+    height: 36px;
+}
+#q1{
+    height: 40px;
+    width: 100%;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#q1:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#a1{
+    height: 40px;
+    width: 250px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#a1:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+#s1{
+    height: 40px;
+    width: 50px;
+    border: solid 2px #E4EAF3;
+    border-radius: 4px;
+    font-family: 'Montserrat';
+}
+#s1:focus{
+    border: solid 2px #0E9AFF;
+    box-shadow: none;
+    outline: none;
+}
+
+
